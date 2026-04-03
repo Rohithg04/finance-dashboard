@@ -1,5 +1,8 @@
 # Nexus Finance Dashboard UI
 
+![Status](https://img.shields.io/badge/status-active-success)
+![Made With](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
+
 Welcome to the Nexus Finance Dashboard project! This application is a fully functional frontend interface designed to track financial activity with a premium, enterprise-grade aesthetic.
 
 ## 🚀 Overview of Approach
